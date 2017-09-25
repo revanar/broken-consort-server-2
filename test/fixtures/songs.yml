@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  composer: MyString
+  song_no: 1
+  parts_no: 1
+  voices: MyString
+
+two:
+  title: MyString
+  composer: MyString
+  song_no: 1
+  parts_no: 1
+  voices: MyString
